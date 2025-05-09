@@ -21,7 +21,8 @@
       "type": "select",
       "options": {
         "tts-1": "tts-1",
-        "tts-1-hd": "tts-1-hd"
+        "tts-1-hd": "tts-1-hd",
+        "hailuo": "hailuo"
       }
     },
     {
@@ -33,7 +34,8 @@
         "echo": "echo",
         "onyx": "onyx",
         "nova": "nova",
-        "shimmer": "shimmer"
+        "shimmer": "shimmer",
+        "YaeMiko_hailuo": "YaeMiko_hailuo"
       }
     },
     {
